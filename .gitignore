@@ -2,12 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/EncryptApp/obj/Debug/net8.0
 /EncryptApp/obj
-/EncryptApp/bin/Debug/net8.0
-/.vs/EncryptApp/DesignTimeBuild
-/.vs/EncryptApp/FileContentIndex
-/.vs/EncryptApp/v17
+/EncryptApp/bin
 /.vs
-/EncryptMethods/bin/Debug
+/EncryptMethods/bin
 /EncryptMethods/obj
